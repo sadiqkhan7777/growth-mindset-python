@@ -1,10 +1,3 @@
-# import streamlit as st
-
-# st.title("Growth Mindset Challenge 💡")
-# st.write("Develop your skills through persistence and learning!")
-
-# if st.button("Start Challenge"):
-#     st.write("Today's Challenge: Reflect on a past mistake and what you learned from it.")
 
 import streamlit as st
 import random
